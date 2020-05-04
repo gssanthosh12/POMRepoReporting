@@ -4,8 +4,7 @@
 <suite name="HubSpot Regression Test suite" verbose="1" >
   <test name="Regression  Functional Tests" >
     <classes>
-       <class name="com.qa.hubspot.tests.LoginPageTest" />
-  		<class name="com.qa.hubspot.tests.HomePageTest" />
+       <class name="com.qa.hubspot.tests.ContactsPageTest" />
     </classes>
   </test>
 </suite>
